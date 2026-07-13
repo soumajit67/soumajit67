@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c9918,100:cc5555&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Soumajit</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
